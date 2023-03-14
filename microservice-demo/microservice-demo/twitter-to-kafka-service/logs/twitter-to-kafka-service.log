@@ -1,0 +1,6 @@
+2023-03-15 00:04:44 [main] INFO  c.m.t.TwitterToKafkaService - Starting TwitterToKafkaService using Java 1.8.0_311 on DESKTOP-UL5CID3 with PID 17880 (F:\stsworkspace\Event-driven-microservices-examples\microservice-demo\microservice-demo\twitter-to-kafak-ms\target\classes started by acer in F:\stsworkspace\Event-driven-microservices-examples\microservice-demo\microservice-demo)
+2023-03-15 00:04:44 [main] INFO  c.m.t.TwitterToKafkaService - No active profile set, falling back to 1 default profile: "default"
+2023-03-15 00:04:48 [main] INFO  c.m.t.TwitterToKafkaService - Started TwitterToKafkaService in 6.638 seconds (JVM running for 12.423)
+2023-03-15 00:04:48 [main] INFO  c.m.t.TwitterToKafkaService - App starts...
+2023-03-15 00:04:48 [main] INFO  c.m.t.TwitterToKafkaService - [Java, Microservices, Kafka, Elasticsearch]
+2023-03-15 00:04:48 [main] INFO  c.m.t.TwitterToKafkaService - Hello microservices!
